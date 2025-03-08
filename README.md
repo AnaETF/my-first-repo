@@ -13,4 +13,5 @@ This is a simple project to learn GitHub basics.
  
 - Instructions for beginners. 
  
-- Easy-to-follow examples.  
+- Easy-to-follow examples.
+- Add new branch feature-update
